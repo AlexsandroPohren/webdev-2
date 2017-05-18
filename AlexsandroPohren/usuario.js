@@ -45,6 +45,7 @@ var funcaoPrivada = function(){
   }
   this.obterUsuario = function(){
     console.log("obter usuario");
+    return usuario;
   }
 }
 
